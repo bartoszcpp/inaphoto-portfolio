@@ -19,7 +19,9 @@ function Main() {
             <StaticImage src="../../images/grafika/img (3).jpg" alt="img1" />
             <StaticImage src="../../images/grafika/img (5).jpg" alt="img1" />
             <StaticImage src="../../images/grafika/img (8).jpg" alt="img1" />
-            <StaticImage src="../../images/grafika/img (9).jpg" alt="img1" />
+            <div className="img_box">
+              <StaticImage src="../../images/grafika/img (9).jpg" alt="img1" />
+            </div>
             <StaticImage src="../../images/grafika/img (12).jpg" alt="img1" />
           </div>
         </div>
@@ -111,7 +113,14 @@ function Main() {
               wektorowych linii oraz koloryt w „akwarelowych” projektach. Staram
               się być najlepsza w tym co robię, jednak cały czas się rozwijam i
               ulepszam swoje umiejętności tak, aby tworzyć coś wyjątkowego i
-              niepowtarzalnego.
+              niepowtarzalnego. <br /> Opinie:
+              <br />
+              <a
+                href="https://www.maxmodels.pl/fotograf-inaphoto,referencje.html"
+                target="_blank"
+              >
+                https://www.maxmodels.pl/fotograf-inaphoto,referencje.html
+              </a>
             </p>
           </div>
         </div>
